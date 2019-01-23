@@ -1,0 +1,625 @@
+E:\Visual Studio 2012\Project Test\中车\中车\bin\Debug\中车.exe.config
+E:\Visual Studio 2012\Project Test\中车\中车\bin\Debug\中车.exe
+E:\Visual Studio 2012\Project Test\中车\中车\bin\Debug\中车.pdb
+E:\Visual Studio 2012\Project Test\中车\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2012\Project Test\中车\中车\obj\Debug\中车.Main.resources
+E:\Visual Studio 2012\Project Test\中车\中车\obj\Debug\中车.Properties.Resources.resources
+E:\Visual Studio 2012\Project Test\中车\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+E:\Visual Studio 2012\Project Test\中车\中车\obj\Debug\中车.exe
+E:\Visual Studio 2012\Project Test\中车\中车\obj\Debug\中车.pdb
+E:\Visual Studio 2012\Project Test\中车\中车\obj\Debug\中车.ccq.resources
+E:\Visual Studio 2012\Project Test\中车\中车\obj\Debug\中车.cyzd.resources
+E:\Visual Studio 2012\Project Test\中车\中车\obj\Debug\中车.hjgc.resources
+E:\Visual Studio 2012\Project Test\中车\中车\obj\Debug\中车.jjzd.resources
+E:\Visual Studio 2012\Project Test\中车\中车\obj\Debug\中车.jlkz.resources
+G:\中车二期上位机\中车_级联控制（2）\中车\bin\Debug\中车.exe.config
+G:\中车二期上位机\中车_级联控制（2）\中车\obj\Debug\中车.exe
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2）\中车\bin\Debug\中车.exe.config
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2）\中车\obj\Debug\中车.exe
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2）\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2）\中车\obj\Debug\中车.ccq.resources
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2）\中车\obj\Debug\中车.cyzd.resources
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2）\中车\obj\Debug\中车.hjgc.resources
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2）\中车\obj\Debug\中车.jjzd.resources
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2）\中车\obj\Debug\中车.jlkz.resources
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2）\中车\obj\Debug\中车.Main.resources
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2）\中车\obj\Debug\中车.Properties.Resources.resources
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2）\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2）\中车\bin\Debug\中车.exe
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2）\中车\bin\Debug\中车.pdb
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2）\中车\bin\Debug\MySql.Data.dll
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2）\中车\obj\Debug\中车.pdb
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\bin\Debug\中车.exe.config
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\obj\Debug\中车.exe
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\obj\Debug\中车.pdb
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\bin\Debug\中车.exe
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\bin\Debug\中车.pdb
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\bin\Debug\MySql.Data.dll
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\obj\Debug\中车.ccq.resources
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\obj\Debug\中车.cyzd.resources
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\obj\Debug\中车.hjgc.resources
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\obj\Debug\中车.jjzd.resources
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\obj\Debug\中车.jlkz.resources
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\obj\Debug\中车.Main.resources
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\obj\Debug\中车.Properties.Resources.resources
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\obj\Debug\中车.SerialPortForm.resources
+E:\Visual Studio 2012\Project File\中车二期上位机\中车_级联控制（2） - 副本\中车\obj\Debug\中车.StartForm.resources
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\bin\Debug\中车.exe.config
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\obj\Debug\中车.exe
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\obj\Debug\中车.pdb
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\bin\Debug\中车.exe
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\bin\Debug\中车.pdb
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\obj\Debug\中车.ccq.resources
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\obj\Debug\中车.cyzd.resources
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\obj\Debug\中车.hjgc.resources
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\obj\Debug\中车.jjzd.resources
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\obj\Debug\中车.jlkz.resources
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\obj\Debug\中车.Main.resources
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\obj\Debug\中车.StartForm.resources
+C:\Users\Administrator\Desktop\中车_级联控制（3）\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\bin\Debug\中车.exe.config
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\obj\Debug\中车.exe
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\obj\Debug\中车.pdb
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\bin\Debug\中车.exe
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\bin\Debug\中车.pdb
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\obj\Debug\中车.ccq.resources
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\obj\Debug\中车.cyzd.resources
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\obj\Debug\中车.hjgc.resources
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\obj\Debug\中车.jjzd.resources
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\obj\Debug\中车.jlkz.resources
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\obj\Debug\中车.Main.resources
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\obj\Debug\中车.StartForm.resources
+C:\Users\Administrator\Desktop\中车_级联控制（4）\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（4）\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（4）\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（4）\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\obj\Debug\中车.jlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（5） - 副本\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\obj\Debug\中车.jlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车_级联控制（7)\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\obj\Debug\中车.jlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7)\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7) - 副本\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7) - 副本\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（7) - 副本\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（9)\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10)\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（10) - 副本\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（11)\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（13)\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（14)\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（17）\中车\obj\Debug\中车.DataBaseQueryForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车.DataBaseQueryForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目\中车_级联控制（18)\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车.DataBaseQueryForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18)\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车.DataBaseQueryForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（18) - 副本 (2)\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.DataBaseQueryForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.modelComparison.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23)\中车\obj\Debug\中车.ccqjlkzDGV.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.ccqjlkzDGV.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.DataBaseQueryForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.modelComparison.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（23) - 副本\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\bin\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\bin\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.ccq.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.ccqjlkzDGV.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.cyzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.DataBaseQueryForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.hjgc.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.jjzd.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.Main.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.modelComparison.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.StartForm.resources
+C:\Users\YongKang Kuang\Desktop\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\bin\Debug\中车.exe.config
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.exe
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.pdb
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.ccq.resources
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.ccqjlDatabase.resources
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.ccqjlkzDGV.resources
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.cyzd.resources
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.cyzdjlkz.resources
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.DataBaseQueryForm.resources
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.hjgc.resources
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.jjzd.resources
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.ccqjlkz.resources
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.Main.resources
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.modelComparison.resources
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.Properties.Resources.resources
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.SerialPortForm.resources
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.StartForm.resources
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\bin\Debug\中车.exe
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\bin\Debug\中车.pdb
+D:\中车\中车项目code\中车_级联控制（24） - 副本\中车\bin\Debug\MySql.Data.dll
+C:\Users\YongKang Kuang\Desktop\code\中车_级联控制（24） - 副本\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\code\中车_级联控制（24） - 副本\中车\obj\Debug\中车.pdb
+C:\Users\YongKang Kuang\Desktop\code\中车_级联控制（26）\中车\bin\Debug\中车.exe.config
+C:\Users\YongKang Kuang\Desktop\code\中车_级联控制（26）\中车\obj\Debug\中车.exe
+C:\Users\YongKang Kuang\Desktop\code\中车_级联控制（26）\中车\obj\Debug\中车.pdb
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车数据采集.csprojAssemblyReference.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.ccq.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.ccqjlkzDGV.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.cyzd.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.DataBaseQueryForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.hjgc.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.jjzd.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.Main.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.modelComparison.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.StartForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车数据采集.csproj.GenerateResource.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车数据采集.csproj.CoreCompileInputs.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.exe
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车.pdb
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\bin\Debug\中车.exe.config
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\bin\Debug\中车.exe
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\bin\Debug\中车.pdb
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\bin\Debug\MySql.Data.dll
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车数据采集.csproj.ResolveComReference.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（26）\中车\obj\Debug\中车数据采集.csproj.CopyComplete
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\bin\Debug\中车.exe.config
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\bin\Debug\中车.exe
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\bin\Debug\中车.pdb
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\bin\Debug\MySql.Data.dll
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车数据采集.csprojAssemblyReference.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车数据采集.csproj.ResolveComReference.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.ccq.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.ccqjlkzChart.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.ccqjlkzDGV.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.cyzd.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.DataBaseQueryForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.hjgc.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.jjzd.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.Main.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.modelComparison.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.StartForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车数据采集.csproj.GenerateResource.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车数据采集.csproj.CoreCompileInputs.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车数据采集.csproj.CopyComplete
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.exe
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30）\中车\obj\Debug\中车.pdb
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\bin\Debug\中车.exe.config
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\bin\Debug\中车.exe
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\bin\Debug\中车.pdb
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\bin\Debug\MySql.Data.dll
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车数据采集.csprojAssemblyReference.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车数据采集.csproj.ResolveComReference.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.ccq.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.ccqjlkzChart.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.ccqjlkzDGV.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.cyzd.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.DataBaseQueryForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.hjgc.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.jjzd.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.Main.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.modelComparison.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.StartForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车数据采集.csproj.GenerateResource.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车数据采集.csproj.CoreCompileInputs.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车数据采集.csproj.CopyComplete
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.exe
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（30） - 副本\中车\obj\Debug\中车.pdb
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车数据采集.csprojAssemblyReference.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车数据采集.csproj.ResolveComReference.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.ccq.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.ccqjlkzChart.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.ccqjlkzDGV.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.cyzd.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.DataBaseQueryForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.hjgc.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.jjzd.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.Main.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.modelComparison.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.StartForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车数据采集.csproj.GenerateResource.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车数据采集.csproj.CoreCompileInputs.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.exe
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车.pdb
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\bin\Debug\中车.exe.config
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\bin\Debug\中车.exe
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\bin\Debug\中车.pdb
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\bin\Debug\MySql.Data.dll
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（31）\中车\obj\Debug\中车数据采集.csproj.CopyComplete
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\bin\Debug\中车.exe.config
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\bin\Debug\中车.exe
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\bin\Debug\中车.pdb
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\bin\Debug\MySql.Data.dll
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车数据采集.csprojAssemblyReference.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车数据采集.csproj.ResolveComReference.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.ccq.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.ccqjlkzChart.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.ccqjlkzDGV.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.cyzd.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.DataBaseQueryForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.hjgc.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.jjzd.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.Main.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.modelComparison.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.StartForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车数据采集.csproj.GenerateResource.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车数据采集.csproj.CoreCompileInputs.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车数据采集.csproj.CopyComplete
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.exe
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.pdb
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\bin\Debug\中车.exe.config
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车数据采集.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.exe
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.pdb
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\bin\Debug\中车.exe
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\bin\Debug\中车.pdb
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车数据采集.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.ccq.resources
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.ccqjlkzChart.resources
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.ccqjlkzDGV.resources
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.cyzd.resources
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.DataBaseQueryForm.resources
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.hjgc.resources
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.jjzd.resources
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.Main.resources
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.modelComparison.resources
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车.StartForm.resources
+C:\Users\Administrator\Desktop\中车_级联控制（33)\中车\obj\Debug\中车数据采集.csproj.GenerateResource.Cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\bin\Debug\中车.exe.config
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\bin\Debug\中车.exe
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\bin\Debug\中车.pdb
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\bin\Debug\MySql.Data.dll
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车数据采集.csprojAssemblyReference.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车数据采集.csproj.ResolveComReference.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.ccq.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.ccqjlkzChart.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.ccqjlkzDGV.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.cyzd.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.DataBaseQueryForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.hjgc.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.jjzd.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.Main.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.modelComparison.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.StartForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车数据采集.csproj.GenerateResource.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车数据采集.csproj.CoreCompileInputs.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车数据采集.csproj.CopyComplete
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.exe
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34）\中车\obj\Debug\中车.pdb
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\bin\Debug\中车.exe.config
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\bin\Debug\中车.exe
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\bin\Debug\中车.pdb
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\bin\Debug\MySql.Data.dll
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车数据采集.csprojAssemblyReference.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车数据采集.csproj.ResolveComReference.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.ccq.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.ccqjlDatabase.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.ccqjlkzChart.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.ccqjlkzDGV.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.cyzd.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.cyzdjlkz.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.DataBaseQueryForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.hjgc.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.jjzd.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.ccqjlkz.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.Main.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.modelComparison.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.Properties.Resources.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.SerialPortForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.StartForm.resources
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车数据采集.csproj.GenerateResource.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车数据采集.csproj.CoreCompileInputs.cache
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车数据采集.csproj.CopyComplete
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.exe
+C:\Users\Yongkang Kuang\Desktop\中车_级联控制（34） - 副本\中车\obj\Debug\中车.pdb
