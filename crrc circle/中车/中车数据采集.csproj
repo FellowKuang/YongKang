@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4CE70162-3CCD-4D46-A00A-7C1886C21F7B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>中车</RootNamespace>
+    <AssemblyName>中车</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.10.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dll\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ccq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ccq.Designer.cs">
+      <DependentUpon>ccq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ccqjlDatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ccqjlDatabase.Designer.cs">
+      <DependentUpon>ccqjlDatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ccqjlkzChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ccqjlkzChart.Designer.cs">
+      <DependentUpon>ccqjlkzChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ccqjlkzDGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ccqjlkzDGV.Designer.cs">
+      <DependentUpon>ccqjlkzDGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cyzd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cyzd.Designer.cs">
+      <DependentUpon>cyzd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cyzdjlkz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cyzdjlkz.Designer.cs">
+      <DependentUpon>cyzdjlkz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataBaseQueryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataBaseQueryForm.Designer.cs">
+      <DependentUpon>DataBaseQueryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hjgc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hjgc.Designer.cs">
+      <DependentUpon>hjgc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jjzd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jjzd.Designer.cs">
+      <DependentUpon>jjzd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ccqjlkz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ccqjlkz.Designer.cs">
+      <DependentUpon>ccqjlkz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jlSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jlSetting.Designer.cs">
+      <DependentUpon>jlSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modelComparison.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modelComparison.Designer.cs">
+      <DependentUpon>modelComparison.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SerialPortForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SerialPortForm.Designer.cs">
+      <DependentUpon>SerialPortForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartForm.Designer.cs">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ccq.resx">
+      <DependentUpon>ccq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ccqjlDatabase.resx">
+      <DependentUpon>ccqjlDatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ccqjlkzChart.resx">
+      <DependentUpon>ccqjlkzChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ccqjlkzDGV.resx">
+      <DependentUpon>ccqjlkzDGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cyzd.resx">
+      <DependentUpon>cyzd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cyzdjlkz.resx">
+      <DependentUpon>cyzdjlkz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataBaseQueryForm.resx">
+      <DependentUpon>DataBaseQueryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hjgc.resx">
+      <DependentUpon>hjgc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jjzd.resx">
+      <DependentUpon>jjzd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ccqjlkz.resx">
+      <DependentUpon>ccqjlkz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jlSetting.resx">
+      <DependentUpon>jlSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modelComparison.resx">
+      <DependentUpon>modelComparison.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SerialPortForm.resx">
+      <DependentUpon>SerialPortForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartForm.resx">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\货运列车.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ACTIVEXLib">
+      <Guid>{012F24C1-35B0-11D0-BF2D-0000E8D0D146}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel1">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

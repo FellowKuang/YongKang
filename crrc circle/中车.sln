@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "中车数据采集", "中车\中车数据采集.csproj", "{4CE70162-3CCD-4D46-A00A-7C1886C21F7B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CRRC", "CRRC\CRRC.vdproj", "{E8747E69-35E7-4469-AA58-A7AFDB4725E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE70162-3CCD-4D46-A00A-7C1886C21F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE70162-3CCD-4D46-A00A-7C1886C21F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE70162-3CCD-4D46-A00A-7C1886C21F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE70162-3CCD-4D46-A00A-7C1886C21F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8747E69-35E7-4469-AA58-A7AFDB4725E2}.Debug|Any CPU.ActiveCfg = Debug
+		{E8747E69-35E7-4469-AA58-A7AFDB4725E2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {758A1CA6-915D-48ED-B53B-1D4CDF7E3F38}
+	EndGlobalSection
+EndGlobal
